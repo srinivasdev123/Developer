@@ -1,1 +1,1 @@
-this is ashok file name
+print("welcome python")
